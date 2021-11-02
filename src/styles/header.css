@@ -1,0 +1,43 @@
+.header {
+  width: 100%;
+}
+.header__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.header__list {
+   margin: 0;
+   padding: 0; 
+   color: #000000;
+   font-size: 14px;
+   font-weight: 400;
+   align-items: center;
+  }
+.header__list-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__list-item {
+    margin-right: 30px;
+}
+.header__list-item:last-child {
+    margin-right: 0;
+}
+
+.header__avatar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__avatar-shoper {
+    margin-right: 50px;
+}
+
+.header__avatar-insign img{
+    width: 70px;
+    height: 70px;
+}

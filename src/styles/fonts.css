@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "GoogleSans";
+    font-weight: 700;
+    src: url("/src/fonts/GoogleSans-Bold.woff2") format("woff2");
+    
+}
+
+@font-face {
+    font-family: "GoogleSans";
+    font-weight: 500;
+    src: url("/src/fonts/GoogleSans-Medium.woff2") format("woff2");
+  }
+@font-face {
+    font-family: "GoogleSans";
+    font-weight: 400;
+    src: url("/src/fonts/GoogleSans-Regular.woff2") format("woff2");
+    
+}
